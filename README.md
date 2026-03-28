@@ -8,7 +8,7 @@
 
 ```bash $ git clone https://github.com/SamaelAS/Subdominios```
 
-```bash $ cd ctfr```
+```bash $ cd Sdominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
